@@ -1,4 +1,4 @@
-# circuits
+# My PCBs
 I collect my PCB designs here.
 
 ## Categories
